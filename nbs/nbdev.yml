@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_issue_repro"
+  site-url: "https://Isaac-Flath.github.io/nbdev_issue_repro"
+  description: "repo to reproduce nbdev issues"
+  repo-branch: main
+  repo-url: "https://github.com/Isaac-Flath/nbdev_issue_repro"
